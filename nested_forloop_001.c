@@ -1,3 +1,11 @@
+// C - Program to print number Patterns
+// Output Like
+//  2 3 4 5 14
+//  3 4 5 6 18
+//  4 5 6 7 22
+
+// - Niraj Kumar Thakur
+
 #include<stdio.h>
 #include<conio.h>
 int main()
@@ -17,10 +25,6 @@ int main()
 	return 0;
 }
 
-//______________________//
-//By Niraj Kumar Thakur
-
-//OUTPUT
-//  2 3 4 5 14
-//  3 4 5 6 18
-//  4 5 6 7 22
+// Do Follow Me For More Interesting Updates
+// Twitter -> @NirajThakur_
+// Facebook -> /Developer.Niraj

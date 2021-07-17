@@ -1,3 +1,13 @@
+// C - Program To Print Number Pattern In C
+//	OUTPUT Like
+//  1
+//  3 3
+//  5 5 5
+//  7 7 7 7
+//  9 9 9 9 9
+
+// - Niraj Kumar Thakur
+
 #include<stdio.h>
 #include<conio.h>
 int main()
@@ -16,12 +26,6 @@ int main()
 	return 0;
 }
 
-//______________________//
-//By Niraj Kumar Thakur
-
-//OUTPUT
-//  1
-//  3 3
-//  5 5 5
-//  7 7 7 7
-//  9 9 9 9 9
+// Do Follow Me For More Interesting Updates
+// Twitter -> @NirajThakur_
+// Facebook -> /Developer.Niraj
